@@ -1,6 +1,6 @@
 # Data-Cleaning
 
-The data set contains historical data of borrowers. The aim is to clean the data.
+The data set contains historical data of borrowers. The aim is to prepare the data analysis ready by using data cleaning techniques
 
 ## Data Dictionary
 
